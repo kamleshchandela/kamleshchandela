@@ -1,23 +1,99 @@
-<h1 align="center">Hi 👋, I'm Kamlesh Chandela</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kamleshchandela&label=Profile%20views&color=0e75b6&style=flat" alt="kamleshchandela" /> </p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Kamlesh%20Chandela&fontSize=80&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Creative%20Coder" alt="Header" />
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamleshchandela" alt="kamleshchandela" /></a> </p>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" width="35" /> Hello, I'm Kamlesh Chandela!
+</h1>
 
-<p align="left"> <a href="https://twitter.com/kamlesh__cg" target="blank"><img src="https://img.shields.io/twitter/follow/kamlesh__cg?logo=twitter&style=for-the-badge" alt="kamlesh__cg" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/kamlesh__cg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kamlesh__cg" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kamlesh-chandela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kamlesh-chandela" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@kamleshchandela-z5e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@kamleshchandela-z5e" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kamleshchandela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kamleshchandela" height="30" width="40" /></a>
+<p align="center">
+  <em>Passionate Full Stack Developer | Student at Swaminarayan University (CodingGita)</em>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<div align="center">
+  <a href="https://kamleshchandela-portfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-1f2937?style=for-the-badge&logoColor=white&color=00f2fe" alt="Portfolio" />
+  </a>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kamleshchandela&show_icons=true&locale=en&layout=compact" alt="kamleshchandela" /></p>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kamleshchandela&show_icons=true&locale=en" alt="kamleshchandela" /></p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/kamlesh-chandela" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/Kamlesh__cg" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
+  <a href="https://leetcode.com/u/KamleshChandela/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://www.youtube.com/@KamleshChandela-z5e" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://www.sololearn.com/en/profile/35504386" target="_blank"><img src="https://img.shields.io/badge/SoloLearn-141D26?style=for-the-badge&logo=sololearn&logoColor=white" alt="SoloLearn" /></a>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamleshchandela&" alt="kamleshchandela" /></p>
+<br/>
+
+<div align="center">
+  <img src="https://github.com/7lovescode/7lovescode/blob/main/Images/about_me.gif?raw=true" width="400" alt="3D coding gif"/>
+</div>
+
+## 🌌 About Me
+
+- 🎓 **Education:** Studying at <a href="https://swaminarayanuniversity.ac.in/" target="_blank">**Swaminarayan University, Kalol, Gandhinagar**</a>
+- 💻 **Tech Hub:** Honing my programming skills under the active guidance of **CodingGita**
+- 🚀 **Currently Learning:** Mastering Full Stack Development, React, Tailwind CSS, REST APIs
+- 💡 **Interests:** Crafting beautiful UIs, dynamic 3D web experiences, and scalable web apps.
+- 🎯 **Goal:** Always looking forward to building something awesome and impactful for companies.
+
+---
+
+## 🛠️ My Tech Stack
+
+<div align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
+  <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://figma.com/" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /></a>
+  <a href="https://postman.com/" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" /></a>
+  <a href="https://restfulapi.net/" target="_blank"><img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=databricks&logoColor=white" alt="REST API" /></a>
+</div>
+
+---
+
+## 📊 Setup Trackers & Stats
+
+### 🏆 LeetCode Progress
+<div align="center">
+  <a href="https://leetcode.com/u/KamleshChandela/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/KamleshChandela?theme=dark&font=Muli&ext=heatmap" alt="LeetCode Stats"/>
+  </a>
+</div>
+
+### 🐙 GitHub Stats
+<div align="center">
+  <a href="https://github.com/KamleshChandela" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=KamleshChandela&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00f2fe&icon_color=00f2fe" alt="GitHub Stats" />
+  </a>
+  <br/>
+  <a href="https://github.com/KamleshChandela" target="_blank">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KamleshChandela&theme=react&hide_border=true&background=0D1117&ring=00f2fe&fire=00f2fe&currStreakLabel=00f2fe" alt="GitHub Streak" />
+  </a>
+</div>
+
+---
+
+## 🎮 Let's Play a Game!
+
+<div align="center">
+  <h3>Interactive Mini-Game (Click to Play!)</h3>
+  <a href="https://play2048.co/" target="_blank">
+    <img src="https://images.unsplash.com/photo-1614294149010-950b698f72c0?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3" alt="Play Game" width="500" style="border-radius: 10px; box-shadow: 0 0 20px #00f2fe;" />
+  </a>
+  <br/>
+  <p><em>(Click the image above to launch a UI Challenge challenge directly in a new tab!)</em></p>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="footer line" />
+</div>
