@@ -81,15 +81,13 @@
 
 ---
 
-## 🎮 Let's Play a Game!
+## 🚀 Destroying Bugs & Pushing Code!
 
 <div align="center">
-  <h3>Interactive Mini-Game (Click to Play!)</h3>
-  <a href="https://play2048.co/" target="_blank">
-    <img src="https://images.unsplash.com/photo-1614294149010-950b698f72c0?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3" alt="Play Game" width="500" style="border-radius: 10px; box-shadow: 0 0 20px #00f2fe;" />
-  </a>
+  <h3>Contributions in Action</h3>
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/4382009/spaceship-dribbble.gif" width="600" alt="Plane destroying blocks illusion" style="border-radius: 10px; box-shadow: 0 0 20px #00f2fe;" />
   <br/>
-  <p><em>(Click the image above to launch a UI Challenge challenge directly in a new tab!)</em></p>
+  <p><em>(Hunting down bugs and smashing those GitHub contributions like a pro!)</em></p>
 </div>
 
 <br/>
