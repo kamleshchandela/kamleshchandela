@@ -12,7 +12,7 @@
 
 <div align="center">
   <a href="https://kamleshchandela-portfolio.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-1f2937?style=for-the-badge&logoColor=white&color=00f2fe" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-1f2937?style=for-the-badge&logoColor=white&color=2ea44f" alt="Portfolio" />
   </a>
 </div>
 
@@ -29,7 +29,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github.com/7lovescode/7lovescode/blob/main/Images/about_me.gif?raw=true" width="400" alt="3D coding gif"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561115ac-7807-444e-b863-f20387d898c6.gif" width="400" alt="Coding Laptop GIF"/>
 </div>
 
 ## 🌌 About Me
