@@ -71,10 +71,6 @@
 ### 🐙 GitHub Stats
 <div align="center">
   <a href="https://github.com/KamleshChandela" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=KamleshChandela&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00f2fe&icon_color=00f2fe" alt="GitHub Stats" />
-  </a>
-  <br/>
-  <a href="https://github.com/KamleshChandela" target="_blank">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=KamleshChandela&theme=react&hide_border=true&background=0D1117&ring=00f2fe&fire=00f2fe&currStreakLabel=00f2fe" alt="GitHub Streak" />
   </a>
 </div>
