@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F2FE&center=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Building+the+future,+one+line+at+a+time" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F2FE&center=true&vCenter=true&width=900&lines=🚀+Kamlesh+Chandela;⚡+Full+Stack+Developer;🧠+AI+%2F+ML+Enthusiast;💻+DSA+Problem+Solver;🌍+Building+Impactful+Tech+for+Real+World;🔥+Code.+Create.+Innovate." alt="Typing Animation" />
 </p>
 
 <div align="center">
