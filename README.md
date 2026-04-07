@@ -135,8 +135,6 @@
 ## Badges
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KamleshChandela&theme=react-dark&hide_border=true" style="display:none" />
-  
   <img src="https://img.shields.io/badge/Hacktoberfest-2024-green?style=for-the-badge&logo=hacktoberfest&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Stars-50+-yellow?style=for-the-badge&logo=github&logoColor=black" />
   <img src="https://img.shields.io/badge/Repositories-10+-blue?style=for-the-badge&logo=github&logoColor=white" />
@@ -144,44 +142,203 @@
 
 ---
 
-## Achievements
+## 🎮 Play Snake Game
 
 <div align="center">
   <table>
     <tr>
       <td align="center">
-        <img src="https://media.giphy.com/media/LMhMsTGsSJH4jyrO0P/giphy.gif" width="100" />
-        <br><strong>Problem Solver</strong>
-        <p>LeetCode Enthusiast</p>
-      </td>
-      <td align="center">
-        <img src="https://media.giphy.com/media/fednJknZEOgGbPoFde/giphy.gif" width="100" />
-        <br><strong>Full Stack</strong>
-        <p>MERN Stack Developer</p>
-      </td>
-      <td align="center">
-        <img src="https://media.giphy.com/media/WFZvB7V9l0ObwNnW5j/giphy.gif" width="100" />
-        <br><strong>UI Designer</strong>
-        <p>Beautiful Interfaces</p>
+        <img src="https://img.shields.io/badge/Snake%20Game-Click%20Below%20to%20Play-00f2fe?style=for-the-badge&logo=gamepad&logoColor=black" />
+        <br>
+        <details>
+          <summary><strong>▶ Play Snake Game</strong></summary>
+          <br>
+          <table>
+            <tr>
+              <td>
+                <img src="https://img.shields.io/badge/Use%20Arrow%20Keys%20to%20Move-00f2fe?style=for-the-badge" />
+              </td>
+            </tr>
+          </table>
+          <br>
+          <table align="center" style="border: 2px solid #00f2fe; border-collapse: collapse;">
+            <tr>
+              <td id="snake-cell-0" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-1" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-2" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-3" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-4" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-5" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-6" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-7" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-8" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-9" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-10" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-11" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-12" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-13" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-14" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+            </tr>
+            <tr>
+              <td id="snake-cell-15" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-16" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-17" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-18" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-19" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-20" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-21" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-22" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-23" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-24" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-25" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-26" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-27" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-28" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-29" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+            </tr>
+            <tr>
+              <td id="snake-cell-30" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-31" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-32" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-33" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-34" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-35" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-36" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-37" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-38" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-39" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-40" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-41" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-42" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-43" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-44" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+            </tr>
+            <tr>
+              <td id="snake-cell-45" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-46" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-47" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-48" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-49" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-50" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-51" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-52" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-53" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-54" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-55" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-56" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-57" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-58" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-59" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+            </tr>
+            <tr>
+              <td id="snake-cell-60" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-61" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-62" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-63" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-64" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-65" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-66" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-67" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-68" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-69" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-70" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-71" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-72" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-73" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-74" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+            </tr>
+            <tr>
+              <td id="snake-cell-75" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-76" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-77" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-78" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-79" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-80" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-81" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-82" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-83" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-84" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-85" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-86" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-87" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-88" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-89" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+            </tr>
+            <tr>
+              <td id="snake-cell-90" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-91" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-92" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-93" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-94" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-95" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-96" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-97" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-98" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-99" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-100" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-101" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-102" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-103" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-104" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+            </tr>
+            <tr>
+              <td id="snake-cell-105" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-106" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-107" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-108" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-109" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-110" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-111" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-112" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-113" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-114" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-115" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-116" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-117" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-118" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-119" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+            </tr>
+            <tr>
+              <td id="snake-cell-120" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-121" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-122" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-123" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-124" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-125" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-126" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-127" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-128" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-129" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-130" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-131" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-132" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-133" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-134" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+            </tr>
+            <tr>
+              <td id="snake-cell-135" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-136" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-137" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-138" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-139" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-140" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-141" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-142" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-143" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-144" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-145" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-146" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-147" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-148" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+              <td id="snake-cell-149" style="width: 20px; height: 20px; background: #0d1117; border: 1px solid #333;"></td>
+            </tr>
+          </table>
+          <br>
+          <p>🕹️ Score: <span id="snake-score">0</span></p>
+        </details>
       </td>
     </tr>
   </table>
-</div>
-
----
-
-## Mini Games
-
-<div align="center">
-  <p><em>Take a break and play!</em></p>
-  
-  <a href="https://google.com/search?q=snake+game" target="_blank"><img src="https://img.shields.io/badge/Snake%20Game-1?style=for-the-badge&logo=google&logoColor=white" /></a>
-  <a href="https://flappy.dev" target="_blank"><img src="https://img.shields.io/badge/Flappy%20Bird-1?style=for-the-badge&logo=google&logoColor=white" /></a>
-  <a href="https://poki.com" target="_blank"><img src="https://img.shields.io/badge/Mini%20Games-1?style=for-the-badge&logo=google&logoColor=white" /></a>
-</div>
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?unique=true&count=5&border_color=00f2fe&bg_color=0D1117" />
 </div>
 
 ---
