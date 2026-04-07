@@ -7,8 +7,8 @@
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=KamleshChandela&label=Profile+Views&style=for-the-badge&color=00f2fe&logo=github" />
-  <img src="https://img.shields.io/github/followers/KamleshChandela?style=for-the-badge&color=00f2fe&logo=github" />
+  <img src="https://komarev.com/ghpvc/?username=KamleshChandela&label=Profile+Views&style=for-the-badge&color=0d1117&logo=github" />
+  <img src="https://img.shields.io/github/followers/KamleshChandela?style=for-the-badge&color=0d1117&logo=github" />
 </div>
 
 ---
