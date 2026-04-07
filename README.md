@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F2FE&center=true&vCenter=true&width=900&lines=🚀+Kamlesh+Chandela;⚡+Full+Stack+Developer;🧠+AI+%2F+ML+Enthusiast;💻+DSA+Problem+Solver;🌍+Building+Impactful+Tech+for+Real+World;🔥+Code.+Create.+Innovate." alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F2FE&center=true&vCenter=true&width=900&lines=Kamlesh+Chandela;Full+Stack+Developer;AI+%2F+ML+Enthusiast;DSA+Problem+Solver;Building+Impactful+Tech+for+Real+World;Code.+Create.+Innovate." alt="Typing Animation" />
 </p>
 
 <div align="center">
@@ -16,20 +16,6 @@
 <p align="center">
   <em>Full Stack Developer | B.Tech @ Swaminarayan University | CodingGita Member</em>
 </p>
-
----
-
-## Connect
-
-<div align="center">
-  <a href="https://kamleshchandela-portfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2ea44f?style=for-the-badge&logo=netlify&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/kamlesh-chandela" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/Kamlesh__cg" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="mailto:kamleshchandela.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/KamleshChandela/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="https://www.youtube.com/@KamleshChandela-z5e" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://github.com/KamleshChandela" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</div>
 
 ---
 
@@ -93,17 +79,11 @@
 
 ## Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KamleshChandela&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&icon_color=00F2FE&title_color=00F2FE&text_color=FFFFFF" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KamleshChandela&theme=react&hide_border=true&background=0D1117&ring=00f2fe&fire=00f2fe&currStreakLabel=00f2fe" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamleshChandela&layout=compact&theme=react&hide_border=true&bg_color=0D1117&icon_color=00F2FE&title_color=00F2FE&text_color=FFFFFF" />
-</div>
 
 ---
 
@@ -133,6 +113,22 @@
 
 ---
 
+
+## Connect
+
+<div align="center">
+  <a href="https://kamleshchandela-portfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2ea44f?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/kamlesh-chandela" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/Kamlesh__cg" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="mailto:kamleshchandela.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/KamleshChandela/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://www.youtube.com/@KamleshChandela-z5e" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://github.com/KamleshChandela" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</div>
+
+
+---
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react" />
 </p>
@@ -143,6 +139,3 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
 
-<div align="center">
-  <p><strong>From Kamlesh Chandela with</strong> 💖</p>
-</div>
