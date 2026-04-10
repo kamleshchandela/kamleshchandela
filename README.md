@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F2FE&center=true&vCenter=true&width=900&lines=MERN+Stack;DSA;Agentic+AI+Development;Version+Control+Tools;Generative+AI+for+Web+Developers;Full-Stack+Developer;Code.+Create.+Innovate." alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F2FE&center=true&vCenter=true&width=900&lines=Full-Stack+Developer+%7C+MERN;Passionate+about+AI+%26+Innovation;Crafting+Scalable+Web+Apps;DSA+%7C+Problem+Solver;Learning+Everyday+%F0%9F%9A%80;From+Idea+to+Impact;Let's+Build+Something+Amazing!" alt="Typing Animation" />
 </p>
 
 ## 📫 Connect With Me
