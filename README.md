@@ -6,16 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F2FE&center=true&vCenter=true&width=900&lines=Full-Stack+Developer+%7C+MERN;Passionate+about+AI+%26+Innovation;Crafting+Scalable+Web+Apps;DSA+%7C+Problem+Solver;Learning+Everyday+%F0%9F%9A%80;From+Idea+to+Impact;Let's+Build+Something+Amazing!" alt="Typing Animation" />
 </p>
 
-## 📫 Connect With Me
 
-<div align="center">
-  <a href="https://kamleshchandela-portfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2ea44f?style=for-the-badge&logo=netlify&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/kamlesh-chandela" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/Kamlesh__cg" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="mailto:kamlesh.b.chandela.cg@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/KamleshChandela/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="https://github.com/KamleshChandela" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=KamleshChandela&label=Profile+Views&style=for-the-badge&color=0d1117&logo=github" />
@@ -37,6 +28,19 @@
 I am a Full-Stack Developer and Bachelor of Engineering student at **Swaminarayan University, Kalol**. I am driven by a singular focus — building purposeful, high-performance web applications that solve real-world problems through clean code, thoughtful design, and intelligent technology.
 
 My core expertise lies in the **MERN Stack**, with deep proficiency in React.js, TypeScript, Tailwind CSS, RESTful APIs, MongoDB, and Supabase. I bring together frontend precision, backend integration, and AI-powered features to deliver complete, production-ready solutions.
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+  <a href="https://kamleshchandela-portfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2ea44f?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/kamlesh-chandela" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/Kamlesh__cg" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="mailto:kamlesh.b.chandela.cg@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/KamleshChandela/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://github.com/KamleshChandela" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</div>
 
 ---
 
