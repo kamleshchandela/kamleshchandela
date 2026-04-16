@@ -21,10 +21,6 @@
   <em>Full-Stack Developer | B.Tech @ Swaminarayan University, Kalol | MERN Stack & Generative AI Enthusiast</em>
 </p>
 
----
-
-## About Me
-
 I am a Full-Stack Developer and Bachelor of Engineering student at **Swaminarayan University, Kalol**. I am driven by a singular focus — building purposeful, high-performance web applications that solve real-world problems through clean code, thoughtful design, and intelligent technology.
 
 My core expertise lies in the **MERN Stack**, with deep proficiency in React.js, TypeScript, Tailwind CSS, RESTful APIs, MongoDB, and Supabase. I bring together frontend precision, backend integration, and AI-powered features to deliver complete, production-ready solutions.
@@ -84,28 +80,6 @@ My core expertise lies in the **MERN Stack**, with deep proficiency in React.js,
   <img src="https://skillicons.dev/icons?i=render" alt="Render" width="60" height="60" />
 </div>
 
----
-
-## 🚀 Featured Projects
-
-### 🏥 Sanjeevani — AI Emergency Healthcare Ecosystem
-**Pan-IIT Level Hackathon | Certificate of Merit**
-
-An intelligent platform connecting patients, hospitals, pharmacies, and NGOs for rapid emergency response.
-
-- **Features:** Facial Recognition, QR-based Medical Passport, Real-time GPS SOS, Live Doctor Guidance, WhatsApp Follow-up Reminders
-- **Tech Stack:** React, TypeScript, Tailwind CSS, Supabase, Gemini AI, Twilio API
-
----
-
-### 📄 ResuMatch AI — Resume–Job Compatibility Analyzer
-
-An AI-powered platform that evaluates resume and job description compatibility using semantic similarity, NLP-based skill matching, and ATS optimization — built for both candidates and recruiters.
-
-- **Features:** Semantic Similarity Analysis, NLP Skill Matching, ATS Optimization, OCR Resume Parsing
-- **Tech Stack:** Next.js, FastAPI, Sentence Transformers, spaCy, Tesseract OCR
-
----
 
 ## 🏆 Achievements & Certifications
 
