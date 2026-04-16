@@ -44,40 +44,22 @@ My core expertise lies in the **MERN Stack**, with deep proficiency in React.js,
 
 ### Frontend
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react" alt="React" width="60" height="60" />
-  <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="60" height="60" />
-  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="60" height="60" />
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="60" height="60" />
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="60" height="60" />
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="60" height="60" />
-  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="60" height="60" />
-  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="60" height="60" />
+  <img src="https://skillicons.dev/icons?i=react,typescript,nextjs,tailwind,html,css,javascript,figma" />
 </div>
 
 ### Backend
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node" width="60" height="60" />
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="60" height="60" />
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="60" height="60" />
-  <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" width="60" height="60" />
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,python,supabase" />
 </div>
 
 ### AI and Machine Learning
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="60" height="60" />
-  <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="60" height="60" />
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="60" height="60" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,python" />
 </div>
 
 ### Tools & Others
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="60" height="60" />
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="60" height="60" />
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="60" height="60" />
-  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="60" height="60" />
-  <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="60" height="60" />
-  <img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" width="60" height="60" />
-  <img src="https://skillicons.dev/icons?i=render" alt="Render" width="60" height="60" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify,render" />
 </div>
 
 
